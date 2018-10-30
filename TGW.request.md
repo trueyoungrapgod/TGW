@@ -4,7 +4,7 @@
 
 ### Группа: 10 - МИ - 3
 ### Электронная почта:  boris141201@gmail.com
-### VK:  vk.com/borkin_adres
+### VK:  [vk.com/borkin_adres](vk.com/borkin_adres)
 
 **[ НАЗВАНИЕ ПРОЕКТА ]**
 
