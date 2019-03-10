@@ -1,436 +1,288 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf100
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue255;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c100000;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
-{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
-{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}
-{\list\listtemplateid4\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid4}
-{\list\listtemplateid5\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid401\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid5}
-{\list\listtemplateid6\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid501\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid6}
-{\list\listtemplateid7\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid601\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid7}
-{\list\listtemplateid8\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid701\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid8}
-{\list\listtemplateid9\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid801\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid9}
-{\list\listtemplateid10\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid901\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid10}
-{\list\listtemplateid11\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1001\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid11}
-{\list\listtemplateid12\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1101\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid12}
-{\list\listtemplateid13\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid13}
-{\list\listtemplateid14\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid1301\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid14}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}{\listoverride\listid5\listoverridecount0\ls5}{\listoverride\listid6\listoverridecount0\ls6}{\listoverride\listid7\listoverridecount0\ls7}{\listoverride\listid8\listoverridecount0\ls8}{\listoverride\listid9\listoverridecount0\ls9}{\listoverride\listid10\listoverridecount0\ls10}{\listoverride\listid11\listoverridecount0\ls11}{\listoverride\listid12\listoverridecount0\ls12}{\listoverride\listid13\listoverridecount0\ls13}{\listoverride\listid14\listoverridecount0\ls14}}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
+﻿# Ивашкевич Борис - “TGW. Pro Life Balance.”
 
-\f0\fs22 \cf2 \expnd0\expndtw0\kerning0
-# \uc0\u1048 \u1074 \u1072 \u1096 \u1082 \u1077 \u1074 \u1080 \u1095  \u1041 \u1086 \u1088 \u1080 \u1089  - \'93TGW. Pro Life Balance.\'94\
-\pard\pardeftab720\sl320\partightenfactor0
+# Пользовательские сценарии
 
-\f1\fs26 \cf2 \cb3 # \uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100 \u1089 \u1082 \u1080 \u1077  \u1089 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1080 \
-\pard\pardeftab720\partightenfactor0
+  
 
-\f0\fs22 \cf2 \cb1 \
-\
-### \uc0\u1043 \u1088 \u1091 \u1087 \u1087 \u1072 : 10 - \u1052 \u1048  - 3\
-### \uc0\u1069 \u1083 \u1077 \u1082 \u1090 \u1088 \u1086 \u1085 \u1085 \u1072 \u1103  \u1087 \u1086 \u1095 \u1090 \u1072 :  boris141201@gmail.com\
-### VK:  [vk.com/borkin_adres](https://vk.com/borkin_adres)\
-\
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  1 - \u1055 \u1077 \u1088 \u1074 \u1099 \u1081  \u1079 \u1072 \u1087 \u1091 \u1089 \u1082 . \u1047 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1077  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1099 .]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls1\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1091  \u1074  \u1087 \u1077 \u1088 \u1074 \u1099 \u1081  \u1088 \u1072 \u1079 \
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1095 \u1080 \u1090 \u1072 \u1077 \u1090  \u1080 \u1085 \u1089 \u1090 \u1088 \u1091 \u1082 \u1094 \u1080 \u1102  \u1087 \u1086  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1102  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1099 \
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93OK\'94\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1080 \u1096 \u1077 \u1090 , \u1095 \u1090 \u1086  \u1087 \u1086 \u1076 \u1088 \u1072 \u1079 \u1091 \u1084 \u1077 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1087 \u1086 \u1076  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \'93\u1051 \u1102 \u1073 \u1086 \u1074 \u1100 \'94 \u1080  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090  \u1092 \u1086 \u1088 \u1084 \u1091  \u1076 \u1083 \u1103  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1103  \u1095 \u1080 \u1089 \u1083 \u1086 \u1084  \u1080   \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1089 \u1074 \u1086 \u1102  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1074  \u1077 \u1075 \u1086  \u1078 \u1080 \u1079 \u1085 \u1080  \u1086 \u1090  1 \u1076 \u1086  10 \u1074  \u1092 \u1086 \u1088 \u1084 \u1091 \
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1080 \u1096 \u1077 \u1090 , \u1095 \u1090 \u1086  \u1087 \u1086 \u1076 \u1088 \u1072 \u1079 \u1091 \u1084 \u1077 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1087 \u1086 \u1076  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \'93\u1041 \u1083 \u1072 \u1075 \u1086 \u1089 \u1086 \u1089 \u1090 \u1086 \u1103 \u1085 \u1080 \u1077 \'94 \u1080  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090  \u1092 \u1086 \u1088 \u1084 \u1091  \u1076 \u1083 \u1103  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1103  \u1095 \u1080 \u1089 \u1083 \u1086 \u1084  \u1080   \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94..\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1089 \u1074 \u1086 \u1102  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1074  \u1077 \u1075 \u1086  \u1078 \u1080 \u1079 \u1085 \u1080  \u1086 \u1090  1 \u1076 \u1086  10 \u1074  \u1092 \u1086 \u1088 \u1084 \u1091 \
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1080 \u1096 \u1077 \u1090 , \u1095 \u1090 \u1086  \u1087 \u1086 \u1076 \u1088 \u1072 \u1079 \u1091 \u1084 \u1077 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1087 \u1086 \u1076  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \'93\u1061 \u1086 \u1073 \u1073 \u1080 \'94 \u1080  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090  \u1092 \u1086 \u1088 \u1084 \u1091  \u1076 \u1083 \u1103  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1103  \u1095 \u1080 \u1089 \u1083 \u1086 \u1084  \u1080   \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	11.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1089 \u1074 \u1086 \u1102  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1074  \u1077 \u1075 \u1086  \u1078 \u1080 \u1079 \u1085 \u1080  \u1086 \u1090  1 \u1076 \u1086  10 \u1074  \u1092 \u1086 \u1088 \u1084 \u1091 \
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	12.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	13.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1080 \u1096 \u1077 \u1090 , \u1095 \u1090 \u1086  \u1087 \u1086 \u1076 \u1088 \u1072 \u1079 \u1091 \u1084 \u1077 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1087 \u1086 \u1076  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \'93\u1044 \u1088 \u1091 \u1079 \u1100 \u1103 \'94 \u1080  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090  \u1092 \u1086 \u1088 \u1084 \u1091  \u1076 \u1083 \u1103  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1103  \u1095 \u1080 \u1089 \u1083 \u1086 \u1084  \u1080   \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	14.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1089 \u1074 \u1086 \u1102  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1074  \u1077 \u1075 \u1086  \u1078 \u1080 \u1079 \u1085 \u1080  \u1086 \u1090  1 \u1076 \u1086  10 \u1074  \u1092 \u1086 \u1088 \u1084 \u1091 \
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	15.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	16.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1080 \u1096 \u1077 \u1090 , \u1095 \u1090 \u1086  \u1087 \u1086 \u1076 \u1088 \u1072 \u1079 \u1091 \u1084 \u1077 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1087 \u1086 \u1076  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \'93\u1047 \u1076 \u1086 \u1088 \u1086 \u1074 \u1100 \u1077 \'94 \u1080  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090  \u1092 \u1086 \u1088 \u1084 \u1091  \u1076 \u1083 \u1103  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1103  \u1095 \u1080 \u1089 \u1083 \u1086 \u1084  \u1080   \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	17.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1089 \u1074 \u1086 \u1102  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1074  \u1077 \u1075 \u1086  \u1078 \u1080 \u1079 \u1085 \u1080  \u1086 \u1090  1 \u1076 \u1086  10 \u1074  \u1092 \u1086 \u1088 \u1084 \u1091 \
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	18.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	19.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1080 \u1096 \u1077 \u1090 , \u1095 \u1090 \u1086  \u1087 \u1086 \u1076 \u1088 \u1072 \u1079 \u1091 \u1084 \u1077 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1087 \u1086 \u1076  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \'93\u1056 \u1072 \u1073 \u1086 \u1090 \u1072 /\u1054 \u1089 \u1085 \u1086 \u1074 \u1085 \u1086 \u1081  \u1088 \u1086 \u1076  \u1076 \u1077 \u1103 \u1090 \u1077 \u1083 \u1100 \u1085 \u1086 \u1089 \u1090 \u1080 \'94 \u1080  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090  \u1092 \u1086 \u1088 \u1084 \u1091  \u1076 \u1083 \u1103  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1103  \u1095 \u1080 \u1089 \u1083 \u1086 \u1084  \u1080   \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94.\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	20.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1089 \u1074 \u1086 \u1102  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1080  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1074  \u1077 \u1075 \u1086  \u1078 \u1080 \u1079 \u1085 \u1080  \u1086 \u1090  1 \u1076 \u1086  10 \u1074  \u1092 \u1086 \u1088 \u1084 \u1091 \
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	21.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls1\ilvl0\kerning1\expnd0\expndtw0 {\listtext	22.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1089 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1103 \u1077 \u1090  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1091  \u1080 \u1079  6 \u1074 \u1074 \u1077 \u1076 \u1105 \u1085 \u1085 \u1099 \u1093  \u1087 \u1072 \u1088 \u1072 \u1084 \u1077 \u1090 \u1088 \u1086 \u1074  \u1080  \u1087 \u1077 \u1088 \u1077 \u1074 \u1086 \u1076 \u1080 \u1090  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1103  \u1074  \u1086 \u1089 \u1085 \u1086 \u1074 \u1085 \u1086 \u1077  \u1086 \u1082 \u1085 \u1086 , \u1074  \u1082 \u1086 \u1090 \u1086 \u1088 \u1086 \u1084  \u1076 \u1072 \u1085 \u1085 \u1072 \u1103  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1072  \u1074 \u1080 \u1076 \u1085 \u1072 \u1103 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  2 - \u1055 \u1077 \u1088 \u1074 \u1099 \u1081  \u1079 \u1072 \u1087 \u1091 \u1089 \u1082 . \u1044 \u1086 \u1073 \u1072 \u1074 \u1083 \u1077 \u1085 \u1080 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074 .]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls2\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1089 \u1083 \u1077  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1103  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1099  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090  \u1076 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1089 \u1074 \u1086 \u1080  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1099  \u1074  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1091 \
-\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100 \'94 \u1080  \'93\u1055 \u1088 \u1086 \u1087 \u1091 \u1089 \u1090 \u1080 \u1090 \u1100 \'94\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100 \'94\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  __//\u1085 \u1072 \u1087 \u1088 \u1080 \u1084 \u1077 \u1088  \'93\u1056 \u1077 \u1083 \u1080 \u1075 \u1080 \u1103 \'94__\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1094 \u1077 \u1085 \u1080 \u1074 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1102  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1100  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1086 \u1090  1 \u1076 \u1086  10\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090 \u1089 \u1103  \'93\u1042 \u1074 \u1077 \u1089 \u1090 \u1080  \u1087 \u1088 \u1086 \u1090 \u1080 \u1074 \u1086 \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1081  \u1076 \u1072 \u1085 \u1085 \u1086 \u1084 \u1091  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \'94 \u1080 \u1083 \u1080  \'93\u1055 \u1088 \u1086 \u1087 \u1091 \u1089 \u1090 \u1080 \u1090 \u1100 \'94\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1087 \u1088 \u1086 \u1090 \u1080 \u1074 \u1086 \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1081  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088  __//\u1085 \u1072 \u1087 \u1088 \u1080 \u1084 \u1077 \u1088  \'93\u1048 \u1084 \u1080 \u1076 \u1078 \'94__\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1094 \u1077 \u1085 \u1080 \u1074 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1102  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1100  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1086 \u1090  1 \u1076 \u1086  10\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100 \'94 \u1080  \'93\u1055 \u1088 \u1086 \u1087 \u1091 \u1089 \u1090 \u1080 \u1090 \u1100 \'94\
-\ls2\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100 \'94 \u1080  \u1087 \u1086 \u1074 \u1090 \u1086 \u1088 \u1103 \u1077 \u1090  \u1087 \u1088 \u1086 \u1094 \u1077 \u1076 \u1091 \u1088 \u1091 , \u1083 \u1080 \u1073 \u1086  \'93\u1055 \u1088 \u1086 \u1087 \u1091 \u1089 \u1090 \u1080 \u1090 \u1100 \'94 \u1080  \u1087 \u1077 \u1088 \u1077 \u1093 \u1086 \u1076 \u1080 \u1090  \u1076 \u1072 \u1083 \u1077 \u1077 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  3 - \u1055 \u1077 \u1088 \u1074 \u1099 \u1081  \u1079 \u1072 \u1087 \u1091 \u1089 \u1082 . \u1044 \u1088 \u1086 \u1073 \u1083 \u1077 \u1085 \u1080 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074 . \u1057 \u1086 \u1079 \u1076 \u1072 \u1085 \u1080 \u1077  \u1087 \u1086 \u1076 \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 .]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls3\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1089 \u1083 \u1077  \u1079 \u1072 \u1074 \u1077 \u1088 \u1096 \u1077 \u1085 \u1080 \u1103  \u1089 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1080 \u1103  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1088 \u1072 \u1079 \u1073 \u1080 \u1090 \u1100  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  \u1085 \u1072  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 .\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1103  \u1087 \u1077 \u1088 \u1077 \u1085 \u1086 \u1089 \u1080 \u1090  \u1074  \u1088 \u1072 \u1079 \u1076 \u1077 \u1083  \u1087 \u1077 \u1088 \u1074 \u1086 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  __//\u1087 \u1086  \u1091 \u1084 \u1086 \u1083 \u1095 \u1072 \u1085 \u1080 \u1102  \'93\u1051 \u1102 \u1073 \u1086 \u1074 \u1100 \'94__\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100 \'94 \u1080  \'93\u1055 \u1088 \u1086 \u1087 \u1091 \u1089 \u1090 \u1080 \u1090 \u1100 \'94\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100 \'94\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  __//\u1053 \u1072 \u1087 \u1088 \u1080 \u1084 \u1077 \u1088 , \u1076 \u1083 \u1103  \u1083 \u1102 \u1073 \u1074 \u1080  \'93\u1056 \u1086 \u1076 \u1080 \u1090 \u1077 \u1083 \u1080 \'94 \u1080 \u1083 \u1080  \'93\u1044 \u1077 \u1074 \u1091 \u1096 \u1082 \u1072 \'94\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1094 \u1077 \u1085 \u1080 \u1074 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1102  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1100  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1086 \u1090  1 \u1076 \u1086  10\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1077 \u1097 \u1105 \'94 \u1080  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1077 \u1097 \u1105 \'94\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1044 \u1072 \u1083 \u1077 \u1077  \u1087 \u1088 \u1086 \u1080 \u1089 \u1093 \u1086 \u1076 \u1103 \u1090  \u1079 \u1072 \u1085 \u1086 \u1074 \u1086  \u1087 \u1091 \u1085 \u1082 \u1090 \u1099  5-7 \u1076 \u1086  \u1090 \u1077 \u1093  \u1087 \u1086 \u1088 , \u1087 \u1086 \u1082 \u1072  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1077  \u1085 \u1072 \u1078 \u1084 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	11.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090 \u1089 \u1103  \u1087 \u1086 \u1076 \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1072  \u1072 \u1085 \u1072 \u1083 \u1086 \u1075 \u1080 \u1095 \u1085 \u1072 \u1103  \u1075 \u1083 \u1072 \u1074 \u1085 \u1086 \u1081  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1077  \u1089  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \u1084 \u1080  \u1080  \u1082 \u1085 \u1086 \u1087 \u1082 \u1072  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	12.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \'93\u1044 \u1072 \u1083 \u1077 \u1077 \'94\
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	13.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1103  \u1087 \u1077 \u1088 \u1077 \u1085 \u1086 \u1089 \u1080 \u1090  \u1074  \u1088 \u1072 \u1079 \u1076 \u1077 \u1083  \u1089 \u1083 \u1077 \u1076 \u1091 \u1102 \u1097 \u1077 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls3\ilvl0\kerning1\expnd0\expndtw0 {\listtext	14.	}\expnd0\expndtw0\kerning0
-\uc0\u1044 \u1072 \u1083 \u1077 \u1077  \u1087 \u1086 \u1074 \u1090 \u1086 \u1088 \u1103 \u1102 \u1090 \u1089 \u1103  \u1087 \u1091 \u1085 \u1082 \u1090 \u1099  3-11 \u1076 \u1083 \u1103  \u1082 \u1072 \u1078 \u1076 \u1086 \u1075 \u1086  \u1080 \u1079  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  4 - \u1045 \u1078 \u1077 \u1084 \u1077 \u1089 \u1103 \u1095 \u1085 \u1086 \u1077  \u1087 \u1077 \u1088 \u1077 \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1077  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1099 .]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls4\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1093 \u1086 \u1076 \u1080 \u1090  \u1084 \u1077 \u1089 \u1103 \u1094  \u1087 \u1086 \u1089 \u1083 \u1077  \u1087 \u1077 \u1088 \u1074 \u1086 \u1075 \u1086  \u1079 \u1072 \u1087 \u1091 \u1089 \u1082 \u1072 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1087 \u1086 \u1083 \u1091 \u1095 \u1072 \u1077 \u1090  \u1091 \u1074 \u1077 \u1076 \u1086 \u1084 \u1083 \u1077 \u1085 \u1080 \u1077  \u1085 \u1077 \u1086 \u1073 \u1093 \u1086 \u1076 \u1080 \u1084 \u1086 \u1089 \u1090 \u1080  \u1087 \u1077 \u1088 \u1077 \u1074 \u1099 \u1087 \u1086 \u1083 \u1085 \u1077 \u1085 \u1080 \u1103 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1087 \u1077 \u1088 \u1077 \u1093 \u1086 \u1076 \u1080 \u1090  \u1074  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1091 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1103  \u1087 \u1077 \u1088 \u1077 \u1085 \u1086 \u1089 \u1080 \u1090  \u1074  \u1088 \u1072 \u1079 \u1076 \u1077 \u1083  \u1087 \u1077 \u1088 \u1074 \u1086 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090  \u1072 \u1074 \u1090 \u1086 \u1084 \u1072 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1075 \u1086  \u1080 \u1079 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1103  \u1086 \u1094 \u1077 \u1085 \u1082 \u1080  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074 , \u1086 \u1087 \u1080 \u1088 \u1072 \u1103 \u1089 \u1100  \u1085 \u1072  \u1089 \u1090 \u1072 \u1090 \u1080 \u1089 \u1090 \u1080 \u1082 \u1091 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1045 \u1089 \u1083 \u1080  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074  \u1095 \u1077 \u1084 -\u1090 \u1086  \u1085 \u1077  \u1089 \u1086 \u1075 \u1083 \u1072 \u1089 \u1077 \u1085  \u1089  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1086 \u1081 , \u1090 \u1086  \u1086 \u1085  \u1087 \u1086  \u1086 \u1095 \u1077 \u1088 \u1077 \u1076 \u1080  \u1076 \u1072 \u1105 \u1090  \u1072 \u1082 \u1090 \u1091 \u1072 \u1083 \u1100 \u1085 \u1091 \u1102  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091  \u1074 \u1089 \u1077 \u1084  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \u1084  \u1074  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1077 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090  \u1072 \u1074 \u1090 \u1086 \u1084 \u1072 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1086 \u1075 \u1086  \u1080 \u1079 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1103  \u1086 \u1094 \u1077 \u1085 \u1082 \u1080  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 , \u1086 \u1087 \u1080 \u1088 \u1072 \u1103 \u1089 \u1100  \u1085 \u1072  \u1089 \u1090 \u1072 \u1090 \u1080 \u1089 \u1090 \u1080 \u1082 \u1091 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1045 \u1089 \u1083 \u1080  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074  \u1095 \u1077 \u1084 -\u1090 \u1086  \u1085 \u1077  \u1089 \u1086 \u1075 \u1083 \u1072 \u1089 \u1077 \u1085  \u1089  \u1087 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1086 \u1081 , \u1090 \u1086  \u1086 \u1085  \u1076 \u1072 \u1105 \u1090  \u1072 \u1082 \u1090 \u1091 \u1072 \u1083 \u1100 \u1085 \u1091 \u1102  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091  \u1089 \u1072 \u1084 \u1086 \u1084 \u1091  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1091 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1044 \u1072 \u1083 \u1077 \u1077  \u1087 \u1086 \u1074 \u1090 \u1086 \u1088 \u1103 \u1102 \u1090 \u1089 \u1103  \u1087 \u1091 \u1085 \u1082 \u1090 \u1099  4-6 \u1089 \u1086  \u1074 \u1089 \u1077 \u1084 \u1080  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \u1084 \u1080 \
-\ls4\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1086 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1086 \u1082 \u1085 \u1086  \u1089 \u1090 \u1072 \u1090 \u1080 \u1089 \u1090 \u1080 \u1082 \u1080 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  5 - \u1044 \u1086 \u1073 \u1072 \u1074 \u1083 \u1077 \u1085 \u1080 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074 ]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls5\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090  \u1075 \u1083 \u1072 \u1074 \u1085 \u1091 \u1102  \u1089 \u1090 \u1088 \u1072 \u1085 \u1080 \u1094 \u1091  \u1089  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1077 \u1081 \
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1056 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1090 \u1100  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1091 \'94\
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1054 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1088 \u1077 \u1078 \u1080 \u1084  \u1088 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 \
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \'94 \u1080  \'93\u1043 \u1086 \u1090 \u1086 \u1074 \u1086 \'94\
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \'94\
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1094 \u1077 \u1085 \u1080 \u1074 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1102  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1100  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1086 \u1090  1 \u1076 \u1086  10\
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090 \u1089 \u1103  \'93\u1042 \u1074 \u1077 \u1089 \u1090 \u1080  \u1087 \u1088 \u1086 \u1090 \u1080 \u1074 \u1086 \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1081  \u1076 \u1072 \u1085 \u1085 \u1086 \u1084 \u1091  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \'94 \u1080 \u1083 \u1080  \'93\u1055 \u1088 \u1086 \u1087 \u1091 \u1089 \u1090 \u1080 \u1090 \u1100 \'94\
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1087 \u1088 \u1086 \u1090 \u1080 \u1074 \u1086 \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1081  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1094 \u1077 \u1085 \u1080 \u1074 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1102  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1100  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1086 \u1090  1 \u1076 \u1086  10\
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	11.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1086 \u1079 \u1074 \u1088 \u1072 \u1097 \u1072 \u1077 \u1090 \u1089 \u1103  \u1082  \u1091 \u1078 \u1077  \u1080 \u1079 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1103 \u1084 \u1080 \
-\ls5\ilvl0\kerning1\expnd0\expndtw0 {\listtext	12.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \'94 \u1080  \u1087 \u1086 \u1074 \u1090 \u1086 \u1088 \u1103 \u1077 \u1090  \u1087 \u1088 \u1086 \u1094 \u1077 \u1076 \u1091 \u1088 \u1091 , \u1083 \u1080 \u1073 \u1086  \'93\u1043 \u1086 \u1090 \u1086 \u1074 \u1086 \'94 \u1080  \u1079 \u1072 \u1082 \u1072 \u1085 \u1095 \u1080 \u1074 \u1072 \u1077 \u1090 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  6 - \u1048 \u1079 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1077  \u1086 \u1094 \u1077 \u1085 \u1082 \u1080  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074 .]** \
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls6\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090  \u1075 \u1083 \u1072 \u1074 \u1085 \u1091 \u1102  \u1089 \u1090 \u1088 \u1072 \u1085 \u1080 \u1094 \u1091  \u1089  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1077 \u1081 \
-\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1056 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1090 \u1100  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1091 \'94\
-\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1054 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1088 \u1077 \u1078 \u1080 \u1084  \u1088 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 \
-\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \'94 \u1080  \'93\u1043 \u1086 \u1090 \u1086 \u1074 \u1086 \'94\
-\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1080 \u1082 \u1086 \u1085 \u1082 \u1091  \u1085 \u1091 \u1078 \u1085 \u1086 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1054 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1084 \u1077 \u1085 \u1102  \u1080 \u1079 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1103  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1048 \u1079 \u1084 \u1077 \u1085 \u1080 \u1090 \u1100  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091 \'94, \'93\u1048 \u1079 \u1084 \u1077 \u1085 \u1080 \u1090 \u1100  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077 \'94, \'93\u1059 \u1076 \u1072 \u1083 \u1080 \u1090 \u1100 \'94 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1087 \u1088 \u1086 \u1090 \u1080 \u1074 \u1086 \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1081 \'94\
-\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \'93\u1048 \u1079 \u1084 \u1077 \u1085 \u1080 \u1090 \u1100  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091 \'94\
-\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1094 \u1077 \u1085 \u1080 \u1074 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1102  \u1091 \u1076 \u1086 \u1074 \u1083 \u1077 \u1090 \u1074 \u1086 \u1088 \u1077 \u1085 \u1085 \u1086 \u1089 \u1090 \u1100  \u1076 \u1072 \u1085 \u1085 \u1099 \u1084  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1084  \u1086 \u1090  1 \u1076 \u1086  10\
-\ls6\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1043 \u1086 \u1090 \u1086 \u1074 \u1086 \'94 \u1080  \u1079 \u1072 \u1082 \u1072 \u1085 \u1095 \u1080 \u1074 \u1072 \u1077 \u1090 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  7 - \u1048 \u1079 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1077  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1103  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074 .]** \
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls7\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090  \u1075 \u1083 \u1072 \u1074 \u1085 \u1091 \u1102  \u1089 \u1090 \u1088 \u1072 \u1085 \u1080 \u1094 \u1091  \u1089  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1077 \u1081 \
-\ls7\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1056 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1090 \u1100  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1091 \'94\
-\ls7\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1054 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1088 \u1077 \u1078 \u1080 \u1084  \u1088 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 \
-\ls7\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \'94 \u1080  \'93\u1043 \u1086 \u1090 \u1086 \u1074 \u1086 \'94\
-\ls7\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1080 \u1082 \u1086 \u1085 \u1082 \u1091  \u1085 \u1091 \u1078 \u1085 \u1086 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls7\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1054 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1084 \u1077 \u1085 \u1102  \u1080 \u1079 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1103  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls7\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1048 \u1079 \u1084 \u1077 \u1085 \u1080 \u1090 \u1100  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091 \'94, \'93\u1048 \u1079 \u1084 \u1077 \u1085 \u1080 \u1090 \u1100  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077 \'94, \'93\u1059 \u1076 \u1072 \u1083 \u1080 \u1090 \u1100 \'94 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1087 \u1088 \u1086 \u1090 \u1080 \u1074 \u1086 \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1081 \'94\
-\ls7\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \'93\u1048 \u1079 \u1084 \u1077 \u1085 \u1080 \u1090 \u1100  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077 \'94\
-\ls7\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1085 \u1086 \u1074 \u1086 \u1077  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls7\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1043 \u1086 \u1090 \u1086 \u1074 \u1086 \'94 \u1080  \u1079 \u1072 \u1082 \u1072 \u1085 \u1095 \u1080 \u1074 \u1072 \u1077 \u1090 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  8 - \u1059 \u1076 \u1072 \u1083 \u1077 \u1085 \u1080 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074 .]** \
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls8\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090  \u1075 \u1083 \u1072 \u1074 \u1085 \u1091 \u1102  \u1089 \u1090 \u1088 \u1072 \u1085 \u1080 \u1094 \u1091  \u1089  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1077 \u1081 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1056 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1090 \u1100  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1091 \'94\
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1054 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1088 \u1077 \u1078 \u1080 \u1084  \u1088 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1103 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \'94 \u1080  \'93\u1043 \u1086 \u1090 \u1086 \u1074 \u1086 \'94\
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1080 \u1082 \u1086 \u1085 \u1082 \u1091  \u1085 \u1091 \u1078 \u1085 \u1086 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1054 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090 \u1089 \u1103  \u1084 \u1077 \u1085 \u1102  \u1080 \u1079 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1103  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1103 \u1090 \u1089 \u1103  \u1082 \u1085 \u1086 \u1087 \u1082 \u1080  \'93\u1048 \u1079 \u1084 \u1077 \u1085 \u1080 \u1090 \u1100  \u1086 \u1094 \u1077 \u1085 \u1082 \u1091 \'94, \'93\u1048 \u1079 \u1084 \u1077 \u1085 \u1080 \u1090 \u1100  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077 \'94, \'93\u1059 \u1076 \u1072 \u1083 \u1080 \u1090 \u1100 \'94 \u1080  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100  \u1087 \u1088 \u1086 \u1090 \u1080 \u1074 \u1086 \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1081 \'94\
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \'93\u1059 \u1076 \u1072 \u1083 \u1080 \u1090 \u1100 \'94\
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1042 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090 \u1089 \u1103  \u1087 \u1088 \u1077 \u1076 \u1091 \u1087 \u1088 \u1077 \u1078 \u1076 \u1077 \u1085 \u1080 \u1077  \u1103  \u1087 \u1088 \u1086 \u1089 \u1100 \u1073 \u1072  \u1087 \u1086 \u1076 \u1090 \u1074 \u1077 \u1088 \u1076 \u1080 \u1090 \u1100  \u1089 \u1074 \u1086 \u1080  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1087 \u1086 \u1076 \u1090 \u1074 \u1077 \u1088 \u1078 \u1076 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1080  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	11.	}\expnd0\expndtw0\kerning0
-\uc0\u1042 \u1077 \u1082 \u1090 \u1086 \u1088  \u1091 \u1076 \u1072 \u1083 \u1103 \u1077 \u1090 \u1089 \u1103 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	12.	}\expnd0\expndtw0\kerning0
-\uc0\u1045 \u1089 \u1083 \u1080  \u1091  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  \u1077 \u1089 \u1090 \u1100  \u1087 \u1088 \u1086 \u1090 \u1080 \u1074 \u1086 \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1081  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 , \u1090 \u1086  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090 \u1089 \u1103  \u1091 \u1076 \u1072 \u1083 \u1080 \u1090 \u1100  \u1080  \u1077 \u1075 \u1086 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	13.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1091 \u1076 \u1072 \u1083 \u1103 \u1077 \u1090  \u1087 \u1088 \u1086 \u1090 \u1080 \u1074 \u1086 \u1087 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1077 \u1085 \u1085 \u1099 \u1081  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	14.	}\expnd0\expndtw0\kerning0
-\uc0\u1042 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090 \u1089 \u1103  \u1087 \u1088 \u1077 \u1076 \u1091 \u1087 \u1088 \u1077 \u1078 \u1076 \u1077 \u1085 \u1080 \u1077  \u1103  \u1087 \u1088 \u1086 \u1089 \u1100 \u1073 \u1072  \u1087 \u1086 \u1076 \u1090 \u1074 \u1077 \u1088 \u1076 \u1080 \u1090 \u1100  \u1089 \u1074 \u1086 \u1080  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	15.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1087 \u1086 \u1076 \u1090 \u1074 \u1077 \u1088 \u1078 \u1076 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1080  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	16.	}\expnd0\expndtw0\kerning0
-\uc0\u1042 \u1077 \u1082 \u1090 \u1086 \u1088  \u1091 \u1076 \u1072 \u1083 \u1103 \u1077 \u1090 \u1089 \u1103 \
-\ls8\ilvl0\kerning1\expnd0\expndtw0 {\listtext	17.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1043 \u1086 \u1090 \u1086 \u1074 \u1086 \'94 \u1080  \u1079 \u1072 \u1082 \u1072 \u1085 \u1095 \u1080 \u1074 \u1072 \u1077 \u1090 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
-\
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  9 - \u1048 \u1079 \u1084 \u1077 \u1085 \u1077 \u1085 \u1080 \u1077  \u1087 \u1086 \u1076 \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 .]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls9\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090  \u1075 \u1083 \u1072 \u1074 \u1085 \u1091 \u1102  \u1089 \u1090 \u1088 \u1072 \u1085 \u1080 \u1094 \u1091  \u1089  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1077 \u1081 \
-\ls9\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1080 \u1082 \u1086 \u1085 \u1082 \u1091  \u1085 \u1091 \u1078 \u1085 \u1086 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls9\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1103  \u1087 \u1077 \u1088 \u1077 \u1085 \u1086 \u1089 \u1080 \u1090  \u1074  \u1088 \u1072 \u1079 \u1076 \u1077 \u1083  \u1074 \u1099 \u1073 \u1088 \u1072 \u1085 \u1085 \u1086 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls9\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1084 \u1080 \u1090 \u1077  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1056 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1090 \u1100 \'94\
-\ls9\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1044 \u1072 \u1083 \u1077 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103  \u1089 \u1086 \u1074 \u1077 \u1088 \u1096 \u1072 \u1102 \u1090 \u1089 \u1103  \u1072 \u1085 \u1072 \u1083 \u1086 \u1075 \u1080 \u1095 \u1085 \u1086  \u1089 \u1086  \u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1103 \u1084 \u1080  5-8\
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  10 - \u1055 \u1083 \u1072 \u1085 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1081  \u1076 \u1083 \u1103  \u1091 \u1083 \u1091 \u1095 \u1096 \u1077 \u1085 \u1080 \u1077  \u1078 \u1080 \u1079 \u1085 \u1080 .]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls10\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1082 \u1088 \u1099 \u1074 \u1072 \u1077 \u1090  \u1075 \u1083 \u1072 \u1074 \u1085 \u1091 \u1102  \u1089 \u1090 \u1088 \u1072 \u1085 \u1080 \u1094 \u1091  \u1089  \u1084 \u1072 \u1090 \u1088 \u1080 \u1094 \u1077 \u1081 \
-\ls10\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1080 \u1082 \u1086 \u1085 \u1082 \u1091  \u1085 \u1091 \u1078 \u1085 \u1086 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls10\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1103  \u1087 \u1077 \u1088 \u1077 \u1085 \u1086 \u1089 \u1080 \u1090  \u1074  \u1088 \u1072 \u1079 \u1076 \u1077 \u1083  \u1074 \u1099 \u1073 \u1088 \u1072 \u1085 \u1085 \u1086 \u1075 \u1086  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \
-\ls10\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1047 \u1072 \u1087 \u1083 \u1072 \u1085 \u1080 \u1088 \u1086 \u1074 \u1072 \u1090 \u1100  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077 \'94\
-\ls10\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1086 \u1076 \u1080 \u1090  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077  \u1080  \u1086 \u1087 \u1080 \u1089 \u1072 \u1085 \u1080 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls10\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1103 \u1077 \u1090  \u1092 \u1086 \u1088 \u1084 \u1091  \'93\u1050 \u1072 \u1082  \u1101 \u1090 \u1086  \u1089 \u1076 \u1077 \u1083 \u1072 \u1090 \u1100 ?\'94\
-\ls10\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1084 \u1077 \u1095 \u1072 \u1077 \u1090  \u1074 \u1089 \u1077  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 , \u1089  \u1082 \u1086 \u1090 \u1086 \u1088 \u1099 \u1084 \u1080  \u1101 \u1090 \u1086  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1089 \u1074 \u1103 \u1079 \u1072 \u1085 \u1086  (\u1077 \u1089 \u1083 \u1080  \u1089 \u1074 \u1103 \u1079 \u1072 \u1085 \u1086 )\
-\ls10\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1076 \u1091 \u1073 \u1083 \u1080 \u1088 \u1091 \u1077 \u1090  \u1076 \u1072 \u1085 \u1085 \u1086 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1074  \u1076 \u1088 \u1091 \u1075 \u1086 \u1081  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088  \u1080  \u1077 \u1075 \u1086  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 , \u1085 \u1072 \u1078 \u1072 \u1074  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \u1080  \u1074 \u1099 \u1073 \u1088 \u1072 \u1074  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 /\u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088  (\u1087 \u1088 \u1080  \u1085 \u1077 \u1086 \u1073 \u1093 \u1086 \u1076 \u1080 \u1084 \u1086 \u1089 \u1090 \u1080 )\
-\ls10\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1084 \u1086 \u1078 \u1077 \u1090  \u1086 \u1090 \u1084 \u1077 \u1090 \u1080 \u1090 \u1100  \u1076 \u1072 \u1085 \u1085 \u1086 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1082 \u1072 \u1082  \u1074 \u1072 \u1078 \u1085 \u1086 \u1077 \
-\ls10\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1043 \u1086 \u1090 \u1086 \u1074 \u1086 \'94 \u1080  \u1079 \u1072 \u1082 \u1072 \u1085 \u1095 \u1080 \u1074 \u1072 \u1077 \u1090 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
-\
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  11 - \u1045 \u1078 \u1077 \u1076 \u1085 \u1077 \u1074 \u1085 \u1099 \u1081  \u1086 \u1090 \u1095 \u1077 \u1090 .]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls11\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1042  \u1082 \u1086 \u1085 \u1094 \u1077  \u1082 \u1072 \u1078 \u1076 \u1086 \u1075 \u1086  \u1076 \u1085 \u1103  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1079 \u1072 \u1093 \u1086 \u1076 \u1080 \u1090  \u1074  \u1088 \u1072 \u1079 \u1076 \u1077 \u1083  \'93\u1055 \u1083 \u1072 \u1085 \u1099 \'94\
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1053 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090 \u1089 \u1103  \u1089 \u1087 \u1080 \u1089 \u1086 \u1082  \u1079 \u1072 \u1087 \u1083 \u1072 \u1085 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1085 \u1099 \u1093  \u1085 \u1077 \u1089 \u1086 \u1074 \u1077 \u1088 \u1096 \u1077 \u1085 \u1085 \u1099 \u1093  \u1076 \u1077 \u1083 \
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1047 \u1072 \u1074 \u1077 \u1088 \u1096 \u1077 \u1085 \u1086 \'94 \u1088 \u1103 \u1076 \u1086 \u1084  \u1089  \u1079 \u1072 \u1074 \u1077 \u1088 \u1096 \u1077 \u1085 \u1085 \u1099 \u1084  \u1076 \u1077 \u1083 \u1086 \u1084 \
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1094 \u1077 \u1085 \u1080 \u1074 \u1072 \u1077 \u1090 , \u1085 \u1072 \u1089 \u1082 \u1086 \u1083 \u1100 \u1082 \u1086  \u1074 \u1072 \u1078 \u1085 \u1099 \u1084  \u1073 \u1099 \u1083 \u1086  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1087 \u1086  \u1077 \u1075 \u1086  \u1084 \u1085 \u1077 \u1085 \u1080 \u1102  \u1086 \u1090  -10 \u1076 \u1086  10\
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1084 \u1077 \u1095 \u1072 \u1077 \u1090 , \u1082 \u1072 \u1082 \u1080 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  \u1080  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  \u1079 \u1072 \u1090 \u1088 \u1086 \u1085 \u1091 \u1083 \u1086  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077 \
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1044 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1086 \u1090 \u1087 \u1088 \u1072 \u1074 \u1083 \u1103 \u1077 \u1090 \u1089 \u1103  \u1074  \u1088 \u1072 \u1079 \u1076 \u1077 \u1083  \'93\u1044 \u1085 \u1077 \u1074 \u1085 \u1080 \u1082  \u1089 \u1086 \u1074 \u1077 \u1088 \u1096 \u1077 \u1085 \u1085 \u1099 \u1093  \u1076 \u1077 \u1083 \'94\
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1044 \u1086 \u1073 \u1072 \u1074 \u1080 \u1090 \u1100 \'94\
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1087 \u1080 \u1096 \u1077 \u1090  \u1085 \u1072 \u1079 \u1074 \u1072 \u1085 \u1080 \u1077  \u1080  \u1086 \u1087 \u1080 \u1089 \u1072 \u1085 \u1080 \u1077  \u1085 \u1086 \u1074 \u1086 \u1075 \u1086  \u1089 \u1086 \u1074 \u1077 \u1088 \u1096 \u1077 \u1085 \u1085 \u1086 \u1075 \u1086  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1094 \u1077 \u1085 \u1080 \u1074 \u1072 \u1077 \u1090 , \u1085 \u1072 \u1089 \u1082 \u1086 \u1083 \u1100 \u1082 \u1086  \u1074 \u1072 \u1078 \u1085 \u1099 \u1084  \u1073 \u1099 \u1083 \u1086  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1087 \u1086  \u1077 \u1075 \u1086  \u1084 \u1085 \u1077 \u1085 \u1080 \u1102  \u1086 \u1090  -10 \u1076 \u1086  10\
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1084 \u1077 \u1095 \u1072 \u1077 \u1090 , \u1082 \u1072 \u1082 \u1080 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  \u1080  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  \u1079 \u1072 \u1090 \u1088 \u1086 \u1085 \u1091 \u1083 \u1086  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077 \
-\ls11\ilvl0\kerning1\expnd0\expndtw0 {\listtext	11.	}\expnd0\expndtw0\kerning0
-\uc0\u1044 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1086 \u1090 \u1087 \u1088 \u1072 \u1074 \u1083 \u1103 \u1077 \u1090 \u1089 \u1103  \u1074  \u1088 \u1072 \u1079 \u1076 \u1077 \u1083  \'93\u1044 \u1085 \u1077 \u1074 \u1085 \u1080 \u1082  \u1089 \u1086 \u1074 \u1077 \u1088 \u1096 \u1077 \u1085 \u1085 \u1099 \u1093  \u1076 \u1077 \u1083 \'94\
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  12 - \u1054 \u1087 \u1077 \u1082 \u1091 \u1085 . \u1042 \u1089 \u1077  10.]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls12\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1094 \u1077 \u1085 \u1080 \u1083  \u1074 \u1089 \u1077  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  \u1085 \u1072  10\
-\ls12\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1089 \u1087 \u1088 \u1072 \u1096 \u1080 \u1074 \u1072 \u1077 \u1090 , \u1091 \u1074 \u1077 \u1088 \u1077 \u1085  \u1083 \u1080  \u1086 \u1085  \u1074  \u1101 \u1090 \u1086 \u1084 \
-\ls12\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1087 \u1086 \u1076 \u1090 \u1074 \u1077 \u1088 \u1078 \u1076 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1080  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls12\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090  \u1077 \u1084 \u1091  \u1087 \u1088 \u1077 \u1076 \u1091 \u1087 \u1088 \u1077 \u1078 \u1076 \u1077 \u1085 \u1080 \u1077  \u1080  \u1087 \u1088 \u1086 \u1089 \u1100 \u1073 \u1091  \'93\u1053 \u1077  \u1074 \u1088 \u1072 \u1090 \u1100  \u1089 \u1072 \u1084 \u1086 \u1084 \u1091  \u1089 \u1077 \u1073 \u1077 \'94\
-\ls12\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1089 \u1087 \u1088 \u1072 \u1096 \u1080 \u1074 \u1072 \u1077 \u1090 , \u1091 \u1074 \u1077 \u1088 \u1077 \u1085  \u1083 \u1080  \u1086 \u1085  \u1074  \u1089 \u1074 \u1086 \u1077 \u1081  \u1086 \u1094 \u1077 \u1085 \u1082 \u1077 \
-\ls12\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1087 \u1086 \u1076 \u1090 \u1074 \u1077 \u1088 \u1078 \u1076 \u1072 \u1077 \u1090  \u1089 \u1074 \u1086 \u1080  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls12\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1074 \u1099 \u1074 \u1086 \u1076 \u1080 \u1090  \u1085 \u1072  \u1101 \u1082 \u1088 \u1072 \u1085  \u1085 \u1072 \u1076 \u1087 \u1080 \u1089 \u1100  \'93\u1055 \u1086 \u1079 \u1076 \u1088 \u1072 \u1074 \u1083 \u1103 \u1102 , \u1085 \u1072 \u1084  \u1085 \u1077 \u1095 \u1077 \u1075 \u1086  \u1074 \u1072 \u1084  \u1087 \u1088 \u1077 \u1076 \u1083 \u1086 \u1078 \u1080 \u1090 \u1100 , \u1074 \u1099  \u1077 \u1076 \u1080 \u1085 \u1089 \u1090 \u1074 \u1077 \u1085 \u1085 \u1099 \u1081  \u1080 \u1076 \u1077 \u1072 \u1083 \u1100 \u1085 \u1099 \u1081  \u1095 \u1077 \u1083 \u1086 \u1074 \u1077 \u1082  \u1085 \u1072  \u1047 \u1077 \u1084 \u1083 \u1077 !\'94 \u1080  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1055 \u1086 \u1087 \u1088 \u1086 \u1073 \u1086 \u1074 \u1072 \u1090 \u1100  \u1089 \u1085 \u1086 \u1074 \u1072 \'94\
-\ls12\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1085 \u1072 \u1078 \u1080 \u1084 \u1072 \u1077 \u1090  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \'93\u1055 \u1086 \u1087 \u1088 \u1086 \u1073 \u1086 \u1074 \u1072 \u1090 \u1100  \u1089 \u1085 \u1086 \u1074 \u1072 \'94\
-\ls12\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1044 \u1072 \u1083 \u1077 \u1077  \u1087 \u1088 \u1086 \u1080 \u1089 \u1093 \u1086 \u1076 \u1080 \u1090  \u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  1\
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  13 - \u1054 \u1087 \u1077 \u1082 \u1091 \u1085 . \u1041 \u1072 \u1083 \u1072 \u1085 \u1089 . \u1042 \u1089 \u1105  \u1087 \u1083 \u1086 \u1093 \u1086 .]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls13\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1074 \u1105 \u1083  \u1087 \u1086 \u1082 \u1072 \u1079 \u1072 \u1090 \u1077 \u1083 \u1080 , \u1074  \u1082 \u1086 \u1090 \u1086 \u1088 \u1099 \u1093  \u1084 \u1072 \u1082 \u1089 \u1080 \u1084 \u1072 \u1083 \u1100 \u1085 \u1072 \u1103  \u1076 \u1077 \u1083 \u1100 \u1090 \u1072  \u1087 \u1088 \u1077 \u1074 \u1099 \u1096 \u1072 \u1077 \u1090  4\
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1085 \u1072 \u1087 \u1080 \u1089 \u1072 \u1090 \u1100  \u1089 \u1087 \u1080 \u1089 \u1086 \u1082  \u1074 \u1077 \u1097 \u1077 \u1081 , \u1082 \u1086 \u1090 \u1086 \u1088 \u1099 \u1077  \u1077 \u1075 \u1086  \u1085 \u1077  \u1091 \u1089 \u1090 \u1088 \u1072 \u1080 \u1074 \u1072 \u1102 \u1090  \u1074 \u1086  \u1074 \u1089 \u1077 \u1093  \u1079 \u1072 \u1085 \u1080 \u1078 \u1077 \u1085 \u1085 \u1099 \u1093  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \u1093 \
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1044 \u1072 \u1083 \u1077 \u1077  \u1074 \u1089 \u1077  \u1087 \u1091 \u1085 \u1082 \u1090 \u1099  \u1089 \u1087 \u1080 \u1089 \u1082 \u1072  \u1072 \u1074 \u1090 \u1086 \u1084 \u1072 \u1090 \u1080 \u1095 \u1077 \u1089 \u1082 \u1080  \u1087 \u1088 \u1077 \u1074 \u1088 \u1072 \u1097 \u1072 \u1102 \u1090 \u1089 \u1103  \u1074  \u1055 \u1083 \u1072 \u1085 \u1080 \u1088 \u1091 \u1077 \u1084 \u1099 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1087 \u1086  \u1086 \u1095 \u1077 \u1088 \u1077 \u1076 \u1080  \u1079 \u1072 \u1093 \u1086 \u1076 \u1080 \u1090  \u1074  \u1088 \u1077 \u1076 \u1072 \u1082 \u1090 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1080 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1076 \u1086 \u1073 \u1072 \u1074 \u1083 \u1103 \u1077 \u1090  \u1086 \u1087 \u1080 \u1089 \u1072 \u1085 \u1080 \u1077 \
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1079 \u1072 \u1087 \u1086 \u1083 \u1085 \u1103 \u1077 \u1090  \u1092 \u1086 \u1088 \u1084 \u1091  \'93\u1050 \u1072 \u1082  \u1101 \u1090 \u1086  \u1089 \u1076 \u1077 \u1083 \u1072 \u1090 \u1100 ?\'94\
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1086 \u1090 \u1084 \u1077 \u1095 \u1072 \u1077 \u1090  \u1074 \u1089 \u1077  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 , \u1089  \u1082 \u1086 \u1090 \u1086 \u1088 \u1099 \u1084 \u1080  \u1101 \u1090 \u1086  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1089 \u1074 \u1103 \u1079 \u1072 \u1085 \u1086  (\u1077 \u1089 \u1083 \u1080  \u1089 \u1074 \u1103 \u1079 \u1072 \u1085 \u1086 )\
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	8.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1076 \u1091 \u1073 \u1083 \u1080 \u1088 \u1091 \u1077 \u1090  \u1076 \u1072 \u1085 \u1085 \u1086 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1074  \u1076 \u1088 \u1091 \u1075 \u1086 \u1081  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088  \u1080  \u1077 \u1075 \u1086  \u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 , \u1085 \u1072 \u1078 \u1072 \u1074  \u1085 \u1072  \u1082 \u1085 \u1086 \u1087 \u1082 \u1091  \u1080  \u1074 \u1099 \u1073 \u1088 \u1072 \u1074  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 /\u1087 \u1086 \u1076 \u1074 \u1077 \u1082 \u1090 \u1086 \u1088  (\u1087 \u1088 \u1080  \u1085 \u1077 \u1086 \u1073 \u1093 \u1086 \u1076 \u1080 \u1084 \u1086 \u1089 \u1090 \u1080 )\
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	9.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1084 \u1086 \u1078 \u1077 \u1090  \u1086 \u1090 \u1084 \u1077 \u1090 \u1080 \u1090 \u1100  \u1076 \u1072 \u1085 \u1085 \u1086 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1077  \u1082 \u1072 \u1082  \u1074 \u1072 \u1078 \u1085 \u1086 \u1077 \
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	10.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1091 \u1076 \u1077 \u1083 \u1103 \u1090 \u1100  \u1084 \u1077 \u1085 \u1100 \u1096 \u1077  \u1074 \u1085 \u1080 \u1084 \u1072 \u1085 \u1080 \u1103  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072 \u1084  \u1089  \u1079 \u1072 \u1074 \u1099 \u1096 \u1077 \u1085 \u1085 \u1099 \u1084 \u1080  \u1087 \u1086 \u1082 \u1072 \u1079 \u1072 \u1090 \u1077 \u1083 \u1103 \u1084 \
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	11.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1085 \u1072 \u1087 \u1086 \u1084 \u1080 \u1085 \u1072 \u1077 \u1090  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1086  \u1074 \u1072 \u1078 \u1085 \u1086 \u1089 \u1090 \u1080  \u1082 \u1072 \u1078 \u1076 \u1086 \u1075 \u1086  \u1080 \u1079  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074 \
-\ls13\ilvl0\kerning1\expnd0\expndtw0 {\listtext	12.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1089 \u1087 \u1080 \u1089 \u1086 \u1082  \u1083 \u1080 \u1090 \u1077 \u1088 \u1072 \u1090 \u1091 \u1088 \u1099  \u1076 \u1083 \u1103  \u1091 \u1083 \u1091 \u1095 \u1096 \u1077 \u1085 \u1080 \u1103  \u1078 \u1080 \u1079 \u1085 \u1080 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
-**[ \uc0\u1057 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1081  14 - \u1054 \u1087 \u1077 \u1082 \u1091 \u1085 . \u1041 \u1072 \u1083 \u1072 \u1085 \u1089  \u1077 \u1089 \u1090 \u1100 .]**\
-\
-\pard\tx20\tx360\pardeftab720\li360\fi-360\partightenfactor0
-\ls14\ilvl0\cf2 \kerning1\expnd0\expndtw0 {\listtext	1.	}\expnd0\expndtw0\kerning0
-\uc0\u1045 \u1089 \u1083 \u1080  \u1084 \u1072 \u1082 \u1089 \u1080 \u1084 \u1072 \u1083 \u1100 \u1085 \u1072 \u1103  \u1076 \u1077 \u1083 \u1100 \u1090 \u1072  \u1089 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1103 \u1077 \u1090  1-2, \u1090 \u1086  \u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090  \u1087 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1102  \u1085 \u1072 \u1095 \u1072 \u1090 \u1100  \u1087 \u1083 \u1072 \u1074 \u1085 \u1086  \u1091 \u1083 \u1091 \u1095 \u1096 \u1072 \u1090 \u1100  \u1089 \u1074 \u1086 \u1102  \u1078 \u1080 \u1079 \u1085 \u1100 \
-\ls14\ilvl0\kerning1\expnd0\expndtw0 {\listtext	2.	}\expnd0\expndtw0\kerning0
-\uc0\u1057 \u1085 \u1072 \u1095 \u1072 \u1083 \u1072  \u1087 \u1088 \u1077 \u1076 \u1083 \u1072 \u1075 \u1072 \u1077 \u1090 \u1089 \u1103  \u1089 \u1076 \u1077 \u1083 \u1072 \u1090 \u1100  \u1091 \u1087 \u1086 \u1088  \u1085 \u1072  \u1089 \u1072 \u1084 \u1086 \u1077  \u1084 \u1072 \u1083 \u1077 \u1085 \u1100 \u1082 \u1086 \u1077  \u1087 \u1086  \u1086 \u1094 \u1077 \u1085 \u1082 \u1077 \
-\ls14\ilvl0\kerning1\expnd0\expndtw0 {\listtext	3.	}\expnd0\expndtw0\kerning0
-\uc0\u1045 \u1089 \u1083 \u1080  \u1077 \u1089 \u1090 \u1100  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1072  \u1089  \u1086 \u1076 \u1080 \u1085 \u1072 \u1082 \u1086 \u1074 \u1086 \u1081  \u1084 \u1080 \u1085 \u1080 \u1084 \u1072 \u1083 \u1100 \u1085 \u1086 \u1081  \u1086 \u1094 \u1077 \u1085 \u1082 \u1086 \u1081 , \u1090 \u1086  \u1089 \u1072 \u1084 \u1086 \u1077  \u1091 \u1103 \u1079 \u1074 \u1080 \u1084 \u1086 \u1077  \u1074 \u1099 \u1095 \u1080 \u1089 \u1083 \u1103 \u1077 \u1090 \u1089 \u1103  \u1080 \u1089 \u1093 \u1086 \u1076 \u1103  \u1080 \u1079  \u1082 \u1086 \u1083 \u1080 \u1095 \u1077 \u1089 \u1090 \u1074 \u1072  \u1089 \u1086 \u1074 \u1077 \u1088 \u1096 \u1077 \u1085 \u1085 \u1099 \u1093  \u1076 \u1083 \u1103  \u1077 \u1075 \u1086  \u1091 \u1083 \u1091 \u1095 \u1096 \u1077 \u1085 \u1080 \u1103  \u1076 \u1077 \u1083 \
-\ls14\ilvl0\kerning1\expnd0\expndtw0 {\listtext	4.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1089 \u1086 \u1089 \u1090 \u1072 \u1074 \u1083 \u1103 \u1077 \u1090  \u1087 \u1083 \u1072 \u1085  \u1076 \u1083 \u1103  \u1091 \u1083 \u1091 \u1095 \u1096 \u1077 \u1085 \u1080 \u1103  \u1089 \u1072 \u1084 \u1099 \u1093  \u1089 \u1090 \u1088 \u1072 \u1076 \u1072 \u1102 \u1097 \u1080 \u1093  \u1074 \u1077 \u1082 \u1090 \u1086 \u1088 \u1086 \u1074  \u1087 \u1086  \u1072 \u1085 \u1072 \u1083 \u1086 \u1075 \u1080 \u1080  \u1089  \u1087 \u1088 \u1077 \u1076 \u1099 \u1076 \u1091 \u1097 \u1080 \u1084 \u1080  \u1089 \u1094 \u1077 \u1085 \u1072 \u1088 \u1080 \u1103 \u1084 \u1080 \
-\ls14\ilvl0\kerning1\expnd0\expndtw0 {\listtext	5.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1099 \u1087 \u1086 \u1083 \u1085 \u1103 \u1077 \u1090  \u1079 \u1072 \u1087 \u1083 \u1072 \u1085 \u1080 \u1088 \u1086 \u1074 \u1072 \u1085 \u1085 \u1099 \u1077  \u1076 \u1077 \u1081 \u1089 \u1090 \u1074 \u1080 \u1103 \
-\ls14\ilvl0\kerning1\expnd0\expndtw0 {\listtext	6.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1086 \u1083 \u1100 \u1079 \u1086 \u1074 \u1072 \u1090 \u1077 \u1083 \u1100  \u1074 \u1099 \u1087 \u1086 \u1083 \u1085 \u1103 \u1077 \u1090  \u1087 \u1088 \u1086 \u1094 \u1077 \u1076 \u1091 \u1088 \u1091  \u1074 \u1077 \u1076 \u1077 \u1085 \u1080 \u1103  \u1076 \u1085 \u1077 \u1074 \u1085 \u1080 \u1082 \u1072  \u1089 \u1086 \u1074 \u1077 \u1088 \u1096 \u1077 \u1085 \u1085 \u1099 \u1093  \u1076 \u1077 \u1083 \
-\ls14\ilvl0\kerning1\expnd0\expndtw0 {\listtext	7.	}\expnd0\expndtw0\kerning0
-\uc0\u1055 \u1088 \u1086 \u1075 \u1088 \u1072 \u1084 \u1084 \u1072  \u1074 \u1099 \u1095 \u1080 \u1089 \u1083 \u1103 \u1077 \u1090 , \u1085 \u1072  \u1095 \u1090 \u1086  \u1085 \u1072 \u1076 \u1086  \u1089 \u1076 \u1077 \u1083 \u1072 \u1090 \u1100  \u1091 \u1087 \u1086 \u1088  \u1076 \u1072 \u1083 \u1077 \u1077 , \u1080 \u1089 \u1093 \u1086 \u1076 \u1103  \u1080 \u1079  \u1074 \u1074 \u1077 \u1076 \u1105 \u1085 \u1085 \u1099 \u1093  \u1076 \u1072 \u1085 \u1085 \u1099 \u1093 \
-\pard\pardeftab720\partightenfactor0
-\cf2 \
-\
-\
-}
+  
+
+### Группа: 10 - МИ - 3
+
+### Электронная почта:  boris141201@gmail.com
+
+### VK:  [vk.com/borkin_adres](https://vk.com/borkin_adres)
+
+  
+
+**[ Сценарий 1 - Первый запуск. Заполнение матрицы.]**
+
+  
+
+1.  Пользователь открывает программу в первый раз
+2.  Пользователь читает инструкцию по заполнению матрицы
+3.  Пользователь нажимает кнопку “OK”
+4.  Программа пишет, что подразумевается под вектором “Любовь” и выводит форму для заполнения числом и  кнопку “Далее”.
+5.  Пользователь вводит свою оценку удовлетворенности данным вектором в его жизни от 1 до 10 в форму
+6.  Пользователь нажимает кнопку “Далее”
+7.  Программа пишет, что подразумевается под вектором “Благосостояние” и выводит форму для заполнения числом и  кнопку “Далее”..
+8.  Пользователь вводит свою оценку удовлетворенности данным вектором в его жизни от 1 до 10 в форму
+9.  Пользователь нажимает кнопку “Далее”
+10.  Программа пишет, что подразумевается под вектором “Хобби” и выводит форму для заполнения числом и  кнопку “Далее”.
+11.  Пользователь вводит свою оценку удовлетворенности данным вектором в его жизни от 1 до 10 в форму
+12.  Пользователь нажимает кнопку “Далее”
+13.  Программа пишет, что подразумевается под вектором “Друзья” и выводит форму для заполнения числом и  кнопку “Далее”.
+14.  Пользователь вводит свою оценку удовлетворенности данным вектором в его жизни от 1 до 10 в форму
+15.  Пользователь нажимает кнопку “Далее”
+16.  Программа пишет, что подразумевается под вектором “Здоровье” и выводит форму для заполнения числом и  кнопку “Далее”.
+17.  Пользователь вводит свою оценку удовлетворенности данным вектором в его жизни от 1 до 10 в форму
+18.  Пользователь нажимает кнопку “Далее”
+19.  Программа пишет, что подразумевается под вектором “Работа/Основной род деятельности” и выводит форму для заполнения числом и  кнопку “Далее”.
+20.  Пользователь вводит свою оценку удовлетворенности данным вектором в его жизни от 1 до 10 в форму
+21.  Пользователь нажимает кнопку “Далее”
+22.  Программа составляет матрицу из 6 введённых параметров и переводит пользователя в основное окно, в котором данная матрица видная
+
+  
+
+**[ Сценарий 2 - Первый запуск. Добавление векторов.]**
+
+  
+
+1.  После заполнения матрицы программа предлагает добавить свои векторы в матрицу
+2.  На экран выводятся кнопки “Добавить” и “Пропустить”
+3.  Пользователь нажимает на кнопку “Добавить”
+4.  Пользователь вводит название вектора __//например “Религия”__
+5.  Пользователь оценивает свою удовлетворенность данным вектором от 1 до 10
+6.  Пользователю предлагается “Ввести противопоставленный данному вектор” или “Пропустить”
+7.  Пользователь вводит противопоставленный вектор __//например “Имидж”__
+8.  Пользователь оценивает свою удовлетворенность данным вектором от 1 до 10
+9.  На экран выводятся кнопки “Добавить” и “Пропустить”
+10.  Пользователь нажимает на кнопку “Добавить” и повторяет процедуру, либо “Пропустить” и переходит далее
+
+  
+
+**[ Сценарий 3 - Первый запуск. Дробление векторов. Создание подматриц.]**
+
+  
+
+1.  После завершения составления матриц программа предлагает пользователю разбить вектора на подвектора.
+2.  Пользователя переносит в раздел первого вектора __//по умолчанию “Любовь”__
+3.  На экран выводятся кнопки “Добавить” и “Пропустить”
+4.  Пользователь нажимает “Добавить”
+5.  Пользователь вводит название подвектора __//Например, для любви “Родители” или “Девушка”
+6.  Пользователь оценивает свою удовлетворенность данным подвектором от 1 до 10
+7.  На экран выводятся кнопки “Добавить ещё” и “Далее”
+8.  Пользователь нажимает на “Добавить ещё”
+9.  Далее происходят заново пункты 5-7 до тех пор, пока пользователь не нажмет кнопку “Далее”
+10.  Пользователь нажимает “Далее”
+11.  На экран выводится подматрица аналогичная главной матрице с подвекторами и кнопка “Далее”
+12.  Пользователь нажимает “Далее”
+13.  Пользователя переносит в раздел следующего вектора
+14.  Далее повторяются пункты 3-11 для каждого из векторов
+
+  
+
+  
+
+**[ Сценарий 4 - Ежемесячное перезаполнение матрицы.]**
+
+  
+
+1.  Проходит месяц после первого запуска
+2.  Пользователь получает уведомление необходимости перевыполнения
+3.  Пользователь переходит в программу
+4.  Пользователя переносит в раздел первого вектора
+5.  Программа предлагает автоматического изменения оценки подвекторов, опираясь на статистику
+6.  Если пользователь в чем-то не согласен с программой, то он по очереди даёт актуальную оценку всем подвекторам в векторе
+7.  Программа предлагает автоматического изменения оценки вектора, опираясь на статистику
+8.  Если пользователь в чем-то не согласен с программой, то он даёт актуальную оценку самому вектору
+9.  Далее повторяются пункты 4-6 со всеми векторами
+10.  Пользователю открывается окно статистики
+
+  
+
+**[ Сценарий 5 - Добавление векторов]**
+
+  
+
+1.  Пользователь открывает главную страницу с матрицей
+2.  Пользователь нажимает на кнопку “Редактировать матрицу”
+3.  Открывается режим редактирования
+4.  На экран выводятся кнопки “Добавить вектор” и “Готово”
+5.  Пользователь нажимает на кнопку “Добавить вектор”
+6.  Пользователь вводит название вектора
+7.  Пользователь оценивает свою удовлетворенность данным вектором от 1 до 10
+8.  Пользователю предлагается “Ввести противопоставленный данному вектор” или “Пропустить”
+9.  Пользователь вводит противопоставленный вектор
+10.  Пользователь оценивает свою удовлетворенность данным вектором от 1 до 10
+11.  Пользователь возвращается к уже изменениями
+12.  Пользователь нажимает на кнопку “Добавить вектор” и повторяет процедуру, либо “Готово” и заканчивает
+
+  
+
+**[ Сценарий 6 - Изменение оценки векторов.]**
+
+  
+
+1.  Пользователь открывает главную страницу с матрицей
+2.  Пользователь нажимает на кнопку “Редактировать матрицу”
+3.  Открывается режим редактирования
+4.  На экран выводятся кнопки “Добавить вектор” и “Готово”
+5.  Пользователь нажимает на иконку нужного вектора
+6.  Открывается меню изменения вектора
+7.  На экран выводятся кнопки “Изменить оценку”, “Изменить название”, “Удалить” и “Добавить противопоставленный”
+8.  Пользователь нажимает “Изменить оценку”
+9.  Пользователь оценивает свою удовлетворенность данным вектором от 1 до 10
+10.  Пользователь нажимает кнопку “Готово” и заканчивает
+
+  
+
+**[ Сценарий 7 - Изменение названия векторов.]**
+
+  
+
+1.  Пользователь открывает главную страницу с матрицей
+2.  Пользователь нажимает на кнопку “Редактировать матрицу”
+3.  Открывается режим редактирования
+4.  На экран выводятся кнопки “Добавить вектор” и “Готово”
+5.  Пользователь нажимает на иконку нужного вектора
+6.  Открывается меню изменения вектора
+7.  На экран выводятся кнопки “Изменить оценку”, “Изменить название”, “Удалить” и “Добавить противопоставленный”
+8.  Пользователь нажимает “Изменить название”
+9.  Пользователь вводит новое название вектора
+10.  Пользователь нажимает кнопку “Готово” и заканчивает
+
+  
+
+**[ Сценарий 8 - Удаление векторов.]**
+
+  
+
+1.  Пользователь открывает главную страницу с матрицей
+2.  Пользователь нажимает на кнопку “Редактировать матрицу”
+3.  Открывается режим редактирования
+4.  На экран выводятся кнопки “Добавить вектор” и “Готово”
+5.  Пользователь нажимает на иконку нужного вектора
+6.  Открывается меню изменения вектора
+7.  На экран выводятся кнопки “Изменить оценку”, “Изменить название”, “Удалить” и “Добавить противопоставленный”
+8.  Пользователь нажимает “Удалить”
+9.  Выводится предупреждение я просьба подтвердить свои действия
+10.  Пользователь подтверждает свои действия
+11.  Вектор удаляется
+12.  Если у вектора есть противопоставленный вектор, то пользователю предлагается удалить и его
+13.  Пользователь удаляет противопоставленный вектор
+14.  Выводится предупреждение я просьба подтвердить свои действия
+15.  Пользователь подтверждает свои действия
+16.  Вектор удаляется
+17.  Пользователь нажимает кнопку “Готово” и заканчивает
+
+  
+
+  
+
+  
+
+**[ Сценарий 9 - Изменение подматриц.]**
+
+  
+
+1.  Пользователь открывает главную страницу с матрицей
+2.  Пользователь нажимает на иконку нужного вектора
+3.  Пользователя переносит в раздел выбранного вектора
+4.  Пользователь нажмите на кнопку “Редактировать”
+5.  Далее действия совершаются аналогично со Сценариями 5-8
+
+  
+
+  
+
+**[ Сценарий 10 - Планирование действий для улучшение жизни.]**
+
+  
+
+1.  Пользователь открывает главную страницу с матрицей
+2.  Пользователь нажимает на иконку нужного вектора
+3.  Пользователя переносит в раздел выбранного вектора
+4.  Пользователь нажимает на кнопку “Запланировать действие”
+5.  Пользователь вводит название и описание действия
+6.  Пользователь заполняет форму “Как это сделать?”
+7.  Пользователь отмечает все подвектора, с которыми это действие связано (если связано)
+8.  Пользователь дублирует данное действие в другой вектор и его подвектор, нажав на кнопку и выбрав вектор/подвектор (при необходимости)
+9.  Пользователь может отметить данное действие как важное
+10.  Пользователь нажимает кнопку “Готово” и заканчивает
+
+  
+
+  
+
+  
+
+**[ Сценарий 11 - Ежедневный отчет.]**
+
+  
+
+1.  В конце каждого дня пользователь заходит в раздел “Планы”
+2.  На экран выводится список запланированных несовершенных дел
+3.  Пользователь нажимает на кнопку “Завершено” рядом с завершенным делом
+4.  Пользователь оценивает, насколько важным было действие по его мнению от -10 до 10
+5.  Пользователь отмечает, какие вектора и подвектора затронуло действие
+6.  Действие отправляется в раздел “Дневник совершенных дел”
+7.  Пользователь нажимает на кнопку “Добавить”
+8.  Пользователь пишет название и описание нового совершенного действия
+9.  Пользователь оценивает, насколько важным было действие по его мнению от -10 до 10
+10.  Пользователь отмечает, какие вектора и подвектора затронуло действие
+11.  Действие отправляется в раздел “Дневник совершенных дел”
+
+  
+
+  
+
+**[ Сценарий 12 - Опекун. Все 10.]**
+
+  
+
+1.  Пользователь оценил все вектора на 10
+2.  Программа спрашивает, уверен ли он в этом
+3.  Пользователь подтверждает свои действия
+4.  Программа выводит ему предупреждение и просьбу “Не врать самому себе”
+5.  Программа спрашивает, уверен ли он в своей оценке
+6.  Пользователь подтверждает свои действия
+7.  Программа выводит на экран надпись “Поздравляю, нам нечего вам предложить, вы единственный идеальный человек на Земле!” и кнопку “Попробовать снова”
+8.  Пользователь нажимает на кнопку “Попробовать снова”
+9.  Далее происходит Сценарий 1
+
+  
+
+  
+
+**[ Сценарий 13 - Опекун. Баланс. Всё плохо.]**
+
+  
+
+1.  Пользователь ввёл показатели, в которых максимальная дельта превышает 4
+2.  Программа предлагает пользователю написать список вещей, которые его не устраивают во всех заниженных векторах
+3.  Далее все пункты списка автоматически превращаются в Планируемые действия
+4.  Пользователь по очереди заходит в редактирование действия
+5.  Пользователь добавляет описание
+6.  Пользователь заполняет форму “Как это сделать?”
+7.  Пользователь отмечает все подвектора, с которыми это действие связано (если связано)
+8.  Пользователь дублирует данное действие в другой вектор и его подвектор, нажав на кнопку и выбрав вектор/подвектор (при необходимости)
+9.  Пользователь может отметить данное действие как важное
+10.  Программа предлагает пользователю уделять меньше внимания векторам с завышенными показателям
+11.  Программа напоминает пользователю о важности каждого из векторов
+12.  Программа предлагает пользователю список литературы для улучшения жизни
+
+  
+
+  
+
+**[ Сценарий 14 - Опекун. Баланс есть.]**
+
+  
+
+1.  Если максимальная дельта составляет 1-2, то Программа предлагает пользователю начать плавно улучшать свою жизнь
+2.  Сначала предлагается сделать упор на самое маленькое по оценке
+3.  Если есть вектора с одинаковой минимальной оценкой, то самое уязвимое вычисляется исходя из количества совершенных для его улучшения дел
+4.  Пользователь составляет план для улучшения самых страдающих векторов по аналогии с предыдущими сценариями
+5.  Пользователь выполняет запланированные действия
+6.  Пользователь выполняет процедуру ведения дневника совершенных дел
+7.  Программа вычисляет, на что надо сделать упор далее, исходя из введённых данных
