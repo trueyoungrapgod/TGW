@@ -44,6 +44,7 @@ public class CategoryActivity extends AppCompatActivity {
         Button completeButton = findViewById(R.id.category_complete_button);
         final Button deleteButton = findViewById(R.id.category_delete_button);
 
+        // Если id = -1, то происходит создание новой категории, иначе - изменение существующей
         id = getIntent().getIntExtra("id", -1);
 
         categoryLabel.setText(id == -1 ? "Создайте категорию:" : "Измените категорию:");
@@ -66,7 +67,7 @@ public class CategoryActivity extends AppCompatActivity {
                 // Валидация ввода
                 if (editCategoryName.length() == 0) {
                     editCategoryName.setError("Введите, пожалуйста, название!");
-                } else if (editCategoryName.getText().toString().contains("@") || editCategoryName.getText().toString().contains("\n")) {
+                } else if (editCategoryName.getText().toString().contains("@") || editCategoryName.getText().toString().contains("\n") || editCategoryName.getText().toString().contains("!")) {
                     editCategoryName.setError("Недопустимые символы");
                 } else {
                     //Добавление новой/измененной категории в бд
@@ -75,6 +76,7 @@ public class CategoryActivity extends AppCompatActivity {
                         contentValues.put(DBHelper.KEY_VALUE, editCategoryValue.getProgress() + 1);
                         contentValues.put(DBHelper.KEY_COLOR, String.format("#%06X", (0xFFFFFF & editCategoryColor.getColor())));
 
+                        dbHelper.dropStatistics(database);
                         database.insert(DBHelper.TABLE_CATEGORY, null, contentValues);
                         finishAffinity();
                         startActivity(new Intent(CategoryActivity.this, MainActivity.class));
@@ -93,11 +95,13 @@ public class CategoryActivity extends AppCompatActivity {
             }
         });
 
+        // Если работаем со старой категорией, то ее можно удалить
         if(id != -1) {
             deleteButton.setVisibility(View.VISIBLE);
             deleteButton.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
+                    dbHelper.dropStatistics(database);
                     database.delete(DBHelper.TABLE_CATEGORY, DBHelper.KEY_ID + "=" + id, null);
                     finishAffinity();
                     startActivity(new Intent(CategoryActivity.this, MainActivity.class));
